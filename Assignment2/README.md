@@ -1,3 +1,3 @@
 If conditions in php
 
-This php demonstrates the of if conditions
+This php demonstrates the of if conditions.
