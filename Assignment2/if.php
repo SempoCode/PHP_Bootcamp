@@ -29,7 +29,7 @@ elseif ($avScore >= 60 && $avScore <70)
 }
 elseif ($avScore < 60)
 {
-    echo "The student's average score is {$avScore} and the final grade is F";
+    echo "The student's average score is {$avScore} and the final grade is F.";
 }
 
 // NOMBER TWO OF TWO
